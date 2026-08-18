@@ -29,15 +29,12 @@ then serve it through bots and dashboards.
 ### Projects
 
 - [Polish Housing Market Intelligence Platform](https://github.com/kromylodd/Polish-Housing-Market-Intelligence-Platform) — end-to-end data pipeline for Polish housing listings: a scraper feeding Airflow-orchestrated dbt models, with Great Expectations for data quality, running on Cloud Run and provisioned with Terraform.
-- Polish IT Job Market Intelligence *(private)* — a Telegram bot that tracks IT job listings in Poland, backed by a DuckDB and dbt pipeline that runs daily on GCP.
+- [Polish IT Job Market Intelligence](https://github.com/kromylodd/Polish-It-Job-Market-Intelligence) — a Telegram bot that tracks IT job listings in Poland, backed by a DuckDB and dbt pipeline that runs daily on GCP.
 
-### Stats
+### Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kromylodd&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kromylodd&layout=compact&hide_border=true&theme=tokyonight" alt="top languages"/>
-
-<img width="470" src="https://github-readme-streak-stats.herokuapp.com/?user=kromylodd&hide_border=true&theme=tokyonight" alt="streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kromylodd&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="contribution activity graph"/>
 
 </div>
