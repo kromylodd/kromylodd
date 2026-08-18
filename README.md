@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=kromylodd&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header&text=Daniil Demidov&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=32" width="100%" alt="header"/>
 
 Data engineer. I build market-intelligence platforms that scrape, clean, and model public data,
 then serve it through bots and dashboards.
